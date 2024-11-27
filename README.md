@@ -19,3 +19,9 @@
 2. **Node**
 
 Run node server.js
+
+## Attributes
+
+### ChatGPT prompts
+
+- Give me index, 404, and about page for a simple express server
